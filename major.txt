@@ -1,0 +1,27 @@
+up:	      #00b33c
+difult color: #009933   Main
+Down:	      #00802b
+
+
+Main Font:    League Spartan   | Pragraph:  josefin_sansregular  |  Events icon:  #75737f
+
+Icon:  #CDCECD     hhh: D8D8D8
+
+
+Social Color:   Facebook:	3b5999
+		Messenger:	0084ff
+		Twitter:	55acee
+		Instagrame:	e4405f
+		Google Plus:	dd4b39
+		Linkdin:	0077B5
+		Skype:		00AFF0
+		Tumblr:		34465d
+		Yahoo:		410093
+		WeChat:		09b83e
+		Line:		00c300
+		SnapChat:	FFFC00
+		Flickr:		ff0084
+		DropBox:	007ee5
+		WhatsApp:	25D366
+		
+
